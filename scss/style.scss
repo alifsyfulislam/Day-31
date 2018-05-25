@@ -1,0 +1,104 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+.header-menu .navbar-expand-md .navbar-nav .nav-link {
+  padding-right: 1.5rem;
+  padding-left: 0.5rem;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: black;
+}
+
+.header-menu .navbar-expand-md .navbar-nav .nav-link:hover {
+  color: gray;
+}
+
+.cart-css .fa, .fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  background-color: gray;
+  padding: 7px 7px;
+}
+
+.menu .navbar-expand-md {
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  background-color: whitesmoke;
+  height: 50px;
+}
+
+
+.menu .navbar-expand-md {
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  background-color: whitesmoke;
+  padding: 0px;
+}
+
+.menu .navbar-expand-md .navbar-nav .nav-link {
+  display: block;
+  text-transform: uppercase;
+  color: black;
+  padding: 0px;
+}
+
+
+.menu .navbar-expand-md .navbar-nav .nav-link {
+  padding: 0.8rem 1.5rem;
+  display: block;
+  text-transform: uppercase;
+  color: black;
+}
+
+.menu .navbar-expand-md .navbar-nav .nav-link:hover{
+  background-color: red;
+}
+
+
+.img-responsive{
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.overlay-control p{
+  font-size: 70%;
+}
+
+.feature-card{
+  height: 177px;
+  width: 100%;
+}
+
+
+.slider2-bg{
+  background-image: url("../images/de-kupit-stimulyatorov-rosta-dlya-rasteniy1-1_2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px 0px;
+  background-attachment: fixed;
+}
+
+.box{
+  height: 150px;
+  width: 100%;
+  background-color: gray;
+  padding-top: 7%;
+}
+
+
+.footer-menu a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  text-decoration: none;
+}
